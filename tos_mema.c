@@ -1,4 +1,4 @@
-#include <mema.h>
+#include <tos_mema.h>
 #include "rtt_log.h"
 tos_mema_ptr *rootmema;
 uint8_t membuf[mema_buffer_size];
